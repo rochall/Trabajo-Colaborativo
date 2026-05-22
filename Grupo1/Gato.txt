@@ -1,0 +1,57 @@
+Perfil de Paciente Veterinario
+Información General
+Nombre: Milo
+Especie: Felino
+Raza: Siamés
+Sexo: Macho
+Edad: 4 años
+Peso: 4.8 kg
+Color: Beige con extremidades oscuras
+Esterilizado: Sí
+Propietario: Laura Méndez
+Fecha de ingreso: 22 de mayo de 2026
+Motivo de Consulta
+
+El propietario reporta que Milo presenta:
+
+Pérdida de apetito desde hace 3 días.
+Vómitos ocasionales.
+Letargo y menor actividad.
+Aumento en el consumo de agua.
+Antecedentes Médicos
+Vacunación al día.
+Alimentación mixta (croquetas y comida húmeda).
+Sin cirugías previas.
+Episodio leve de gastritis hace 1 año.
+Examen Clínico
+Temperatura: 39.4 °C
+Frecuencia cardíaca: 180 lpm
+Frecuencia respiratoria: 32 rpm
+Estado de hidratación: Leve deshidratación (5%)
+Observaciones: Encías ligeramente pálidas y sensibilidad abdominal moderada.
+Diagnóstico Presuntivo
+Insuficiencia Renal Felina Inicial
+
+Posible afectación renal debido a:
+
+Incremento de sed.
+Vómitos.
+Fatiga.
+Cambios en hábitos alimenticios.
+Pruebas Recomendadas
+Hemograma completo.
+Perfil bioquímico renal.
+Análisis de orina.
+Ecografía abdominal.
+Tratamiento Inicial
+Fluidoterapia intravenosa.
+Dieta renal especializada.
+Antiemético para controlar vómitos.
+Monitoreo de función renal cada 30 días.
+Pronóstico
+
+Reservado a favorable si se detecta y controla tempranamente.
+
+Observaciones del Veterinario
+
+“El paciente responde adecuadamente a la hidratación inicial. Se recomienda seguimiento constante y control de dieta para evitar progresión de la enfermedad.”
