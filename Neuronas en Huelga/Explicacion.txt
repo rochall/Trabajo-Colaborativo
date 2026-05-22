@@ -1,0 +1,2 @@
+El siguiente codigo es un asistente de gestion escolar.
+Permite registrar alumnos, listarlos y buscarlos mediante un menu
