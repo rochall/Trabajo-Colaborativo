@@ -4,3 +4,4 @@
 4- Anadir con setting a los demàs integrantes del grupo.
 5- Trabajar en la carpeta asignada de manera colaborativa.
 6- Finalizado el proyecto hacer Pull Requets en mismo GITHUB → New pull request → aceptar
+7. Gracias
