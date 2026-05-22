@@ -1,0 +1,84 @@
+
+En el presente proyecto se presentara los distintos vinos que hay en la empresa y sus estadisticos, como su ph, su acidez y densidad.
+
+# VINOS
+
+## Variables numéricas:
+
+- acidez fija
+
+- acidez volatil
+
+- acido citrico
+
+- azucar residual
+
+- cloruros
+
+- dioxido de azufre libre
+
+- dioxido de azufre total
+
+- densidad
+
+- pH
+
+- sulfatos
+
+- alcohol
+
+- calidad
+
+## Variable categórica
+
+- color
+
+## Variable identificadora
+
+- botella_id
+
+
+# DESCRIPCION:
+
+| Variable                  | Descripción                                                                                                                        |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `botella_id`              | Identificador único de cada botella o registro de vino.                                                                            |
+| `acidez fija`             | Cantidad de ácidos no volátiles presentes en el vino. Influye en el sabor y conservación.                                          |
+| `acidez volatil`          | Ácidos que se evaporan fácilmente, principalmente ácido acético. Valores altos pueden indicar mal sabor o fermentación no deseada. |
+| `acido citrico`           | Cantidad de ácido cítrico presente. Aporta frescura y acidez al vino.                                                              |
+| `azucar residual`         | Azúcar que permanece después de la fermentación. Influye en qué tan dulce es el vino.                                              |
+| `cloruros`                | Cantidad de sal (cloruros) en el vino. Exceso puede afectar negativamente el sabor.                                                |
+| `dioxido de azufre libre` | Cantidad de dióxido de azufre libre, usado como conservante y antioxidante.                                                        |
+| `dioxido de azufre total` | Cantidad total de dióxido de azufre (libre + combinado). Ayuda a preservar el vino.                                                |
+| `densidad`                | Densidad del vino. Relacionada con el contenido de azúcar y alcohol.                                                               |
+| `pH`                      | Nivel de acidez o alcalinidad del vino. Valores bajos indican mayor acidez.                                                        |
+| `sulfatos`                | Compuestos minerales que contribuyen a la conservación y sabor del vino.                                                           |
+| `alcohol`                 | Porcentaje de alcohol presente en el vino.                                                                                         |
+| `color`                   | Tipo de vino según su color. En tu base aparecen categorías como `rojo` y `blanco`.                                                |
+| `calidad`                 | Calificación de calidad del vino, generalmente en escala numérica. Es la variable objetivo en muchos análisis predictivos.         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
